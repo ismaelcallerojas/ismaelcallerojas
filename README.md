@@ -1,6 +1,6 @@
 - 👋 Hola, Me llamo Ismael Fernando Calle Rojas
 - 👀 Me gusta la programación
-- 🌱 Actualmente estoy volviendo a enfocarme en el desaroolo web
+- 🌱 Actualmente estoy volviendo a enfocarme en el desarrolo web
 - 💞️ Me gusta colaborar en proyectos
 - 📫 ismaelcallerojas@gmail.com
 
